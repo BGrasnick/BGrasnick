@@ -14,12 +14,14 @@
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2f80ed)
 ![](https://img.shields.io/badge/Mindset-Design_Thinking-informational?style=flat&logo=materialdesignicons&logoColor=white&color=2f80ed)
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=BGrasnick&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BGrasnick&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BGrasnick&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BGrasnick&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
+
 
 ## Passions
 
