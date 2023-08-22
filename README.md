@@ -15,10 +15,10 @@
 ![](https://img.shields.io/badge/Mindset-Design_Thinking-informational?style=flat&logo=materialdesignicons&logoColor=white&color=2f80ed)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BGrasnick" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=BGrasnick" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BGrasnick&layout=compact&langs_count=8&card_width=320" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BGrasnick&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Passions
@@ -83,3 +83,5 @@ Shields: https://shields.io/
 Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 Github Readme Quotes https://github.com/PiyushSuthar/github-readme-quotes
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=BGrasnick" alt="BGrasnick Profile visits" /></p>
